@@ -1,0 +1,6 @@
+C:\SharePoint Solutions\BeenJammin\Console Apps\ListFieldMigration\bin\Debug\ListFieldMigration.exe
+C:\SharePoint Solutions\BeenJammin\Console Apps\ListFieldMigration\bin\Debug\ListFieldMigration.pdb
+C:\SharePoint Solutions\BeenJammin\Console Apps\ListFieldMigration\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\SharePoint Solutions\BeenJammin\Console Apps\ListFieldMigration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SharePoint Solutions\BeenJammin\Console Apps\ListFieldMigration\obj\x86\Debug\ListFieldMigration.exe
+C:\SharePoint Solutions\BeenJammin\Console Apps\ListFieldMigration\obj\x86\Debug\ListFieldMigration.pdb

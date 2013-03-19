@@ -1,0 +1,12 @@
+C:\SharePoint Solutions\Console Apps\ListFieldUpdate\ListFieldUpdate\bin\Debug\ListFieldUpdate.exe
+C:\SharePoint Solutions\Console Apps\ListFieldUpdate\ListFieldUpdate\bin\Debug\ListFieldUpdate.pdb
+C:\SharePoint Solutions\Console Apps\ListFieldUpdate\ListFieldUpdate\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\SharePoint Solutions\Console Apps\ListFieldUpdate\ListFieldUpdate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SharePoint Solutions\Console Apps\ListFieldUpdate\ListFieldUpdate\obj\x86\Debug\ListFieldUpdate.exe
+C:\SharePoint Solutions\Console Apps\ListFieldUpdate\ListFieldUpdate\obj\x86\Debug\ListFieldUpdate.pdb
+Z:\VSS Working Folders\ListFieldMigration\ListFieldUpdate\obj\x86\Debug\ListFieldUpdate.exe
+Z:\VSS Working Folders\ListFieldMigration\ListFieldUpdate\obj\x86\Debug\ListFieldUpdate.pdb
+Z:\VSS Working Folders\ListFieldMigration\ListFieldUpdate\bin\Debug\ListFieldUpdate.exe
+Z:\VSS Working Folders\ListFieldMigration\ListFieldUpdate\bin\Debug\ListFieldUpdate.pdb
+Z:\VSS Working Folders\ListFieldMigration\ListFieldUpdate\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+Z:\VSS Working Folders\ListFieldMigration\ListFieldUpdate\obj\x86\Debug\ResolveAssemblyReference.cache
